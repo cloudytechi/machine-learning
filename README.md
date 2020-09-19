@@ -8,7 +8,7 @@ Now, how about virtual personal assistants such as Apple’s Siri or Microsoft�
 Virtual-Assistants-Intellipaat
 You also must have used Google maps. If you want to go from New Jersey to New York via road, google maps will show you the distance between these two places, the shortest route and also how much traffic is there along the road.
 
-Go through our [Machine Learnining Course](https://intellipaat.com/machine-learning-certification-training-course/) to become a ML Engineer.
+Now, if you are interested in doing an end-to-end certification course in Machine Learning, you can check out Intellipaat’s [Machine Learnining Course](https://intellipaat.com/machine-learning-certification-training-course/) with Python.
 
 Map-Intellipaat
 Now, you would agree with me that all of these are some magical applications, and the magic behind these applications is machine learning. So, simply put, machine learning is a sub-domain of artificial intelligence, where a machine is provided data to learn and make insightful decisions.
